@@ -10,5 +10,5 @@ Este repositório foi criado no âmbito da disciplina de PSI.
 - Aprender a utilizar o GitHub.
 - Colaborar no desenvolvimento de projetos
 
--       # O meu primeiro projeto
+-       #  O meu primeiro projeto
 -   
